@@ -1,3 +1,3 @@
 from helper import greeting
-str = input("Type a message:")
-greeting(str)
+string1 = input("Type a message: ")
+greeting(string1)
